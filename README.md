@@ -1,7 +1,3 @@
-Sure, here's the README file in paragraph format:
-
----
-
 # Student Enrollment Application
 
 This project is a Django-based web application designed for student enrollment, featuring an AJAX-powered registration form and capabilities for exporting student data to CSV and PDF formats. Additionally, it includes an admin dashboard for managing student records efficiently.
